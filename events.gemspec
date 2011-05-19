@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = "refinerycms-events"
   s.version = "0.0.4"
-
+  s.platform          = Gem::Platform::RUBY
   s.authors = ["SemanticGap"]
   s.date = "2010-05-07"
   s.default_executable = "refinerycms-events-install"
